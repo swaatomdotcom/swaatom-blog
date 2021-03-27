@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>life on swaatom.com</title>
+    <link>https://swaatomdotcom.github.io/swaatom-blog/categories/life/</link>
+    <description>Recent content in life on swaatom.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Mar 2021 17:30:00 +0700</lastBuildDate>
+    
+	<atom:link href="https://swaatomdotcom.github.io/swaatom-blog/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cabin fever</title>
+      <link>https://swaatomdotcom.github.io/swaatom-blog/posts/cabin-fever/</link>
+      <pubDate>Fri, 26 Mar 2021 17:30:00 +0700</pubDate>
+      
+      <guid>https://swaatomdotcom.github.io/swaatom-blog/posts/cabin-fever/</guid>
+      <description>Here I am, stuck inside four walls in my room in Ta Khmau. There&amp;rsquo;s no official lockdown here, but it makes sense to limit social contact. I&amp;rsquo;m gonna escape for a while tomorrow though, and head across the river to visit the family. I think that I&amp;rsquo;m pretty well socially distanced riding a bicycle. I&amp;rsquo;m looking forward to it. I&amp;rsquo;m in two minds whether to take the ferry though (very crowded), or ride all the way up to the Prek Tamak bridge and back south again.</description>
+    </item>
+    
+    <item>
+      <title>School&#39;s out</title>
+      <link>https://swaatomdotcom.github.io/swaatom-blog/posts/schools-out/</link>
+      <pubDate>Thu, 25 Mar 2021 11:00:00 +0700</pubDate>
+      
+      <guid>https://swaatomdotcom.github.io/swaatom-blog/posts/schools-out/</guid>
+      <description>This time is different. I think that Cambodia&amp;rsquo;s amazing run of good luck has come to an end. The virus is with us now, and this time it appears to be here to stay. The genie ain&amp;rsquo;t gonna go back in the bottle this time. I hope I&amp;rsquo;m wrong. I would love to be wrong. It could&amp;rsquo;ve all been prevented. When will life return to normal? Ellen had only just started school when all of the covid closures kicked in last year.</description>
+    </item>
+    
+  </channel>
+</rss>
